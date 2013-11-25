@@ -1,6 +1,4 @@
-# Makefile for ISU
-# by TeamISU
-# with automatic source detection
+
 EXENAME   := main
 SOURCES   :=
 LD_FLAGS  := -pthread
